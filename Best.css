@@ -1,0 +1,59 @@
+*
+{
+	color: #444;
+	font-family: Arial;
+	text-align: justify;
+}
+
+.image
+{
+	float:left;
+}
+
+.dessous
+{
+	clear: both;
+}
+
+.souligne
+{
+	text-decoration: underline;
+	color: rgb(166,60,48)
+}
+
+.rouge
+{
+	color: red; 
+}
+
+.police
+{
+	font-family: Courier New;
+
+}
+
+.imagebis
+{
+	float: center
+}
+
+.site
+{
+	color: rgb(77,119,167)
+}
+
+.mfw
+{
+	color: rgb(100,32,27);
+}
+
+.bleu
+{
+	color:rgb(50,71,234); 
+}
+
+.violet
+{
+	color: :rgb(78,46,135);
+
+}
